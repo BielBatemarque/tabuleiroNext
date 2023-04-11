@@ -34,6 +34,10 @@
   border-radius: var(--border-radius);
 }
 
+.container{
+  margin: 0 auto;
+}
+
 .code {
   font-weight: 700;
   font-family: var(--font-mono);
