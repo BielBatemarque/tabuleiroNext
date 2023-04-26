@@ -15,4 +15,4 @@ export const Linha = (props) => {
 
         </div>
     );
-}
+};
